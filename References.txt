@@ -1,0 +1,13 @@
+References
+
+* http://waterhouse.ucdavis.edu/whats-in-wine/fixed-acidity
+
+* http://www.ats.ucla.edu/stat/r/dae/ologit.htm
+
+* http://www.thekitchn.com/the-truth-about-sulfites-in-wine-myths-of-red-wine-headaches-100878
+
+* https://www.theguardian.com/lifeandstyle/2013/jun/23/wine-tasting-junk-science-analysis
+
+* http://stackoverflow.com/questions/5106782/use-of-ggplot-within-another-function-in-r/29595312#29595312
+
+* http://stackoverflow.com/questions/13649473/add-a-common-legend-for-combined-ggplots
